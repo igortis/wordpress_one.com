@@ -1,0 +1,12 @@
+2020-02-19T19:19:54+00:00 CRITICAL Uncaught Error: Call to undefined function twentynineteen_can_show_post_thumbnail() in /home/igor/dev/wordpress_one.com/wp-content/themes/responsive-ecommerce/header.php:27
+Stack trace:
+#0 /home/igor/dev/wordpress_one.com/wp-includes/template.php(722): require_once()
+#1 /home/igor/dev/wordpress_one.com/wp-includes/template.php(671): load_template('/home/igor/dev/...', true)
+#2 /home/igor/dev/wordpress_one.com/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home/igor/dev/wordpress_one.com/wp-content/themes/di-blog/page.php(1): get_header()
+#4 /home/igor/dev/wordpress_one.com/wp-includes/template-loader.php(98): include('/home/igor/dev/...')
+#5 /home/igor/dev/wordpress_one.com/wp-blog-header.php(19): require_once('/home/igor/dev/...')
+#6 /home/igor/dev/wordpress_one.com/index.php(17): require('/home/igor/dev/...')
+#7 {main}
+  thrown in /home/igor/dev/wordpress_one.com/wp-content/themes/responsive-ecommerce/header.php on line 27
+

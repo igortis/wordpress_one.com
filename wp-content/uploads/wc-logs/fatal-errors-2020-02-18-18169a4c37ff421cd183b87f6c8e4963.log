@@ -1,0 +1,6 @@
+2020-02-18T19:28:02+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /home/igor/dev/wordpress_one.com/wp-content/plugins/myplugin-header/myplugin-header.php on line 25
+
+2020-02-18T19:28:03+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /home/igor/dev/wordpress_one.com/wp-content/plugins/myplugin-header/myplugin-header.php on line 25
+
+2020-02-18T19:28:04+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /home/igor/dev/wordpress_one.com/wp-content/plugins/myplugin-header/myplugin-header.php on line 25
+
